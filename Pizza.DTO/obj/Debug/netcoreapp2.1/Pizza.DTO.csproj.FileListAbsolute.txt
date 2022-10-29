@@ -1,0 +1,9 @@
+F:\PizaaJpAssignment\Pizza.DTO\bin\Debug\netcoreapp2.1\Pizza.DTO.deps.json
+F:\PizaaJpAssignment\Pizza.DTO\bin\Debug\netcoreapp2.1\Pizza.DTO.dll
+F:\PizaaJpAssignment\Pizza.DTO\bin\Debug\netcoreapp2.1\Pizza.DTO.pdb
+F:\PizaaJpAssignment\Pizza.DTO\obj\Debug\netcoreapp2.1\Pizza.DTO.csprojAssemblyReference.cache
+F:\PizaaJpAssignment\Pizza.DTO\obj\Debug\netcoreapp2.1\Pizza.DTO.csproj.CoreCompileInputs.cache
+F:\PizaaJpAssignment\Pizza.DTO\obj\Debug\netcoreapp2.1\Pizza.DTO.AssemblyInfoInputs.cache
+F:\PizaaJpAssignment\Pizza.DTO\obj\Debug\netcoreapp2.1\Pizza.DTO.AssemblyInfo.cs
+F:\PizaaJpAssignment\Pizza.DTO\obj\Debug\netcoreapp2.1\Pizza.DTO.dll
+F:\PizaaJpAssignment\Pizza.DTO\obj\Debug\netcoreapp2.1\Pizza.DTO.pdb

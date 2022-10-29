@@ -1,0 +1,14 @@
+F:\PizaaJpAssignment\Pizza.Domain\bin\Debug\netcoreapp2.1\Pizza.Domain.deps.json
+F:\PizaaJpAssignment\Pizza.Domain\bin\Debug\netcoreapp2.1\Pizza.Domain.dll
+F:\PizaaJpAssignment\Pizza.Domain\bin\Debug\netcoreapp2.1\Pizza.Domain.pdb
+F:\PizaaJpAssignment\Pizza.Domain\bin\Debug\netcoreapp2.1\Pizza.DTO.dll
+F:\PizaaJpAssignment\Pizza.Domain\bin\Debug\netcoreapp2.1\Pizza.DTO.pdb
+F:\PizaaJpAssignment\Pizza.Domain\obj\Debug\netcoreapp2.1\Pizza.Domain.csprojAssemblyReference.cache
+F:\PizaaJpAssignment\Pizza.Domain\obj\Debug\netcoreapp2.1\Pizza.Domain.csproj.CoreCompileInputs.cache
+F:\PizaaJpAssignment\Pizza.Domain\obj\Debug\netcoreapp2.1\Pizza.Domain.AssemblyInfoInputs.cache
+F:\PizaaJpAssignment\Pizza.Domain\obj\Debug\netcoreapp2.1\Pizza.Domain.AssemblyInfo.cs
+F:\PizaaJpAssignment\Pizza.Domain\obj\Debug\netcoreapp2.1\Pizza.Domain.csproj.CopyComplete
+F:\PizaaJpAssignment\Pizza.Domain\obj\Debug\netcoreapp2.1\Pizza.Domain.dll
+F:\PizaaJpAssignment\Pizza.Domain\obj\Debug\netcoreapp2.1\Pizza.Domain.pdb
+F:\PizaaJpAssignment\Pizza.Domain\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+F:\PizaaJpAssignment\Pizza.Domain\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
